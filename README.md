@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bpkwee&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **bpkwee/bpkwee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
